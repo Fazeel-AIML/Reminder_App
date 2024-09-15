@@ -28,3 +28,6 @@ You can install these dependencies by running the following command:
 
 ```bash
 pip install pandas plyer qtpy openpyxl
+```
+## Demo
+![App Demo](Remind.gif)
